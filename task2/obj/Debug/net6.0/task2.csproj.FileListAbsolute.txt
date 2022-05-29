@@ -1,0 +1,15 @@
+D:\plevako\GB\c#\lesson\lesson8\task2\bin\Debug\net6.0\task2.exe
+D:\plevako\GB\c#\lesson\lesson8\task2\bin\Debug\net6.0\task2.deps.json
+D:\plevako\GB\c#\lesson\lesson8\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+D:\plevako\GB\c#\lesson\lesson8\task2\bin\Debug\net6.0\task2.dll
+D:\plevako\GB\c#\lesson\lesson8\task2\bin\Debug\net6.0\task2.pdb
+D:\plevako\GB\c#\lesson\lesson8\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+D:\plevako\GB\c#\lesson\lesson8\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\plevako\GB\c#\lesson\lesson8\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+D:\plevako\GB\c#\lesson\lesson8\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+D:\plevako\GB\c#\lesson\lesson8\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+D:\plevako\GB\c#\lesson\lesson8\task2\obj\Debug\net6.0\task2.dll
+D:\plevako\GB\c#\lesson\lesson8\task2\obj\Debug\net6.0\refint\task2.dll
+D:\plevako\GB\c#\lesson\lesson8\task2\obj\Debug\net6.0\task2.pdb
+D:\plevako\GB\c#\lesson\lesson8\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+D:\plevako\GB\c#\lesson\lesson8\task2\obj\Debug\net6.0\ref\task2.dll

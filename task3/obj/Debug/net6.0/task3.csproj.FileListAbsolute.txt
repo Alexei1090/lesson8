@@ -1,0 +1,15 @@
+D:\plevako\GB\c#\lesson\lesson8\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+D:\plevako\GB\c#\lesson\lesson8\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\plevako\GB\c#\lesson\lesson8\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+D:\plevako\GB\c#\lesson\lesson8\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+D:\plevako\GB\c#\lesson\lesson8\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+D:\plevako\GB\c#\lesson\lesson8\task3\bin\Debug\net6.0\task3.exe
+D:\plevako\GB\c#\lesson\lesson8\task3\bin\Debug\net6.0\task3.deps.json
+D:\plevako\GB\c#\lesson\lesson8\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+D:\plevako\GB\c#\lesson\lesson8\task3\bin\Debug\net6.0\task3.dll
+D:\plevako\GB\c#\lesson\lesson8\task3\bin\Debug\net6.0\task3.pdb
+D:\plevako\GB\c#\lesson\lesson8\task3\obj\Debug\net6.0\task3.dll
+D:\plevako\GB\c#\lesson\lesson8\task3\obj\Debug\net6.0\refint\task3.dll
+D:\plevako\GB\c#\lesson\lesson8\task3\obj\Debug\net6.0\task3.pdb
+D:\plevako\GB\c#\lesson\lesson8\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+D:\plevako\GB\c#\lesson\lesson8\task3\obj\Debug\net6.0\ref\task3.dll
